@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CaesarSaladx
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning c++ 
-- 📫 How to reach me caesarrobles26@gmail.com
+- 👋 Hi, I’m @CaesarSaladx. I am a CS student. 
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning C++. 
+- 📫 Contact me at caesarrobles26@gmail.com
 
 <!---
 CaesarSaladx/CaesarSaladx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
