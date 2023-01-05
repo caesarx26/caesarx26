@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaesarSaladx. I am a CS student. 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning C++ in college and learning HTML, CSS, and Javascript for fun. 
+- 🌱 I’m currently learning C++ in college and learning web devlopment in my free time. 
 - 📫 Contact me at caesarrobles26@gmail.com
 
 <!---
