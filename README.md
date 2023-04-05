@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caesarx26. I am a CS student. 
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning C++ and assembly in college and learning web devlopment in my free time. 
+- 🌱 I’m learning C++ and assembly language in college. I am learning web development in my free time. 
 - 📫 Contact me at caesarrobles26@gmail.com
 
 <!---
