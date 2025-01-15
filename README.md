@@ -10,6 +10,7 @@ Frontend: React, Next.js, TypeScript, Tailwind CSS
 Backend: Node.js, Express, Laravel, Flask, Python
 Databases: PostgreSQL, SQLite, Firebase
 Other: AWS, TensorFlow, Scikit-Learn, Unit Testing, API Integration
+
 🎯 Projects:
 Tabby Book Management App
 
@@ -31,6 +32,7 @@ Tensor Wave AI Challenge
 
 Tech Stack: Python, TensorFlow, Scikit-Learn
 Processed and classified chat GPT tweets using SVM and neural network models with over 75% accuracy.
+
 🎯 Internship Experience:
 Software Engineer Intern - AERO AI
 June 2024 - Present
@@ -39,7 +41,6 @@ Updated marketing site design using Next.js and Tailwind CSS, enhancing responsi
 Developed a static blog feature with Markdown parsing for dynamic content.
 Implemented user management flow with Next.js and Laravel, integrating AWS AppStream for seamless software streaming.
 Designed PostgreSQL schema for AppStream session management with automated expiration handling.
-
 
 <!---
 CaesarSaladx/CaesarSaladx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
