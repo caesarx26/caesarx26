@@ -40,7 +40,6 @@ Developed a static blog feature with Markdown parsing for dynamic content.
 Implemented user management flow with Next.js and Laravel, integrating AWS AppStream for seamless software streaming.
 Designed PostgreSQL schema for AppStream session management with automated expiration handling.
 
-Email: caesarrobles26@gmail.com
 
 <!---
 CaesarSaladx/CaesarSaladx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
