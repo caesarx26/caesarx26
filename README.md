@@ -50,11 +50,6 @@ I specialize in web development, focusing on both **frontend** and **backend** t
 - Implemented user management flow with Next.js and Laravel, integrating AWS AppStream for seamless software streaming.  
 - Designed PostgreSQL schema for AppStream session management with automated expiration handling.  
 
----
-
-## 📚 Currently Learning:  
-- Cloud technologies (AWS, Google Cloud)  
-- Advanced web frameworks and serverless architectures  
 
 ---
 
