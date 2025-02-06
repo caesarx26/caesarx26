@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Caesar!  
 🎓 Just graduated with a Bachelor's Degree in Computer Science from UNLV.  
-💻 Full-stack Web Developer | Passionate about building seamless and interactive web applications.
+💻 Full-stack Web Developer | Passionate about building seamless and interactive web applications and also DevOps.
 
 ---
 
