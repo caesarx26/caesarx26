@@ -13,7 +13,7 @@ I specialize in web development, focusing on both **frontend** and **backend** t
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS  
 - **Backend**: Node.js, Express, Laravel, Flask, Python  
 - **Databases**: PostgreSQL, SQLite, Firebase  
-- **Other**: AWS, TensorFlow, Scikit-Learn, Unit Testing, API Integration  
+- **Other**: AWS, TensorFlow, Scikit-Learn, Unit Testing, API Integration, Docker
 
 ---
 
