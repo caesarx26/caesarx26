@@ -7,13 +7,13 @@
 ## 🚀 About Me:  
 I specialize in **web development** and **cross-platform mobile app development**, focusing on both **frontend** and **backend** technologies. With hands-on experience in building dynamic web applications, developing mobile apps, managing databases, and integrating APIs, I strive to create efficient, scalable, and engaging solutions.  
 
-I'm also interested in bridging the gap between development and operations, with a long-term goal of transitioning into a **DevOps** role. My skills in **automation, CI/CD, and cloud infrastructure** position me well to streamline workflows and deliver reliable systems.  
+I'm also interested in bridging the gap between development and operations. My skills in **automation, CI/CD, and cloud infrastructure** position me well to streamline workflows and deliver reliable systems.  
 
 ---
 
 ## 🌱 Skills & Technologies:  
 - **Frontend**: React, Next.js, React Native, TypeScript, Tailwind CSS  
-- **Backend**: PHP, Node.js, Express, Flask, Python  
+- **Backend**: PHP, Laravel, Node.js, Express, Flask, Python  
 - **Mobile Development**: React Native, Expo (Cross-Platform)  
 - **CMS & Hosting**: WordPress, cPanel  
 - **Databases**: PostgreSQL, SQLite, Firebase  
