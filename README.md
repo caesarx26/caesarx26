@@ -12,7 +12,6 @@ I’m passionate about **DevOps, automation, and scalable systems**, streamlinin
 - **Mobile Development:** React Native, Expo, Swift, Kotlin  
 - **Databases:** PostgreSQL, MySQL, SQLite, Firebase  
 - **CMS & Hosting:** WordPress, cPanel  
-- **DevOps & Tools:** CI/CD, AWS, Git, Docker
 
 ---
 
