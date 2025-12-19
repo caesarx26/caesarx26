@@ -1,21 +1,16 @@
 # Full-Stack Software Engineer | Web, Mobile, and DevOps
 
----
-
-## About Me
 I’m a **Software Engineer at 702 Pros** and a **Computer Science graduate from UNLV**.  
 I build **dynamic web applications and cross-platform mobile apps**, handling everything from frontend and backend development to database design and API integration.  
+I’m passionate about **DevOps, automation, and scalable systems**, streamlining workflows, implementing **CI/CD pipelines**, and leveraging **cloud infrastructure** to deliver reliable, maintainable solutions.
 
-Passionate about **DevOps, automation, and scalable systems**, I streamline workflows, implement **CI/CD pipelines**, and leverage **cloud infrastructure** to deliver reliable, maintainable solutions.
-
----
 
 ## Skills & Technologies
 
 - **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
 - **Backend:** PHP, Laravel, Node.js, Express, Flask, Python  
 - **Mobile Development:** React Native, Expo, Swift, Kotlin  
-- **Databases & Storage:** PostgreSQL, MySQL, SQLite, Firebase  
+- **Databases:** PostgreSQL, MySQL, SQLite, Firebase  
 - **CMS & Hosting:** WordPress, cPanel  
 - **DevOps & Tools:** CI/CD, AWS, Git, Docker
 
