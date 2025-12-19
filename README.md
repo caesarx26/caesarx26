@@ -1,14 +1,12 @@
 # Full-Stack Software Engineer | Web, Mobile, and DevOps
-
-I’m a **Computer Science graduate from UNLV** and a **Software Engineer at 702 Pros**.  
-I specialize in building **interactive web applications** and **cross-platform mobile apps**, with a growing focus on **DevOps, automation, and scalable systems**.
  
 ---
 
 ## About Me
-I am a **full-stack software engineer** specializing in **web development** and **cross-platform mobile apps**, with experience in **frontend** and **backend** technologies. I build dynamic applications, manage databases, integrate APIs, and focus on creating **efficient, scalable, and user-friendly solutions**.  
+I’m a **Software Engineer at 702 Pros** and a **Computer Science graduate from UNLV**.  
+I build **dynamic web applications and cross-platform mobile apps**, managing everything from frontend and backend development to database design and API integration.  
 
-I am also passionate about **DevOps and automation**, with skills in **CI/CD pipelines, cloud infrastructure, and workflow optimization** to deliver reliable and maintainable systems.
+Passionate about **DevOps, automation, and scalable systems**, I enjoy streamlining workflows, implementing CI/CD pipelines, and leveraging cloud infrastructure to deliver reliable and maintainable solutions.
 
 ---
 
